@@ -1,0 +1,119 @@
+body
+{
+    background-size: 103% 135%;   
+}
+
+.Details
+{  
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size:x-large;
+}
+
+#MainName
+{
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+table
+{
+    border-collapse: collapse;
+    width: 60vw;
+    margin: 4vh 0vw;  
+    border-style: ridge;
+        border-radius: 5px;
+        border-color: rgb(145, 123, 2);    
+}
+
+tr{
+    text-align: center;
+}
+
+
+td{
+    text-align: center;
+    border: rgb(145, 123, 2) solid 2px;
+    padding: 15vh 0vw;
+}
+
+th
+{
+    text-align: center;
+    border: rgb(145, 123, 2) solid 2px;
+    padding: 5vh 0vw;
+    
+}
+
+body
+{
+    background-size: 130% 2000000%;  
+    /* background-image: url("https://media.istockphoto.com/photos/abstract-grunge-black-texture-background-picture-id1131428317?b=1&k=20&m=1131428317&s=170667a&w=0&h=ifnn3wn3j_DNPp4Gh4DjE_L_abuQfZlY3omyJ77tc0E=");
+    background-repeat: no-repeat;      */
+    background-image: url("FinalBackground4.jpg");
+    background-repeat: no-repeat;
+}
+
+.Details
+{
+    /* color: rgb(145, 123, 2);
+    text-shadow: 0.5px 0.6px 2px black; */
+    color: black;
+    text-shadow: 0.5px 0.6px 2px rgb(145, 123, 2);
+    
+}
+
+#MainName
+{
+    padding-top: 2%;
+    padding-bottom: 3%;
+    /* color: rgb(145, 123, 2);
+    text-shadow: 1.3px 0.6px 2px black; */
+    color: black;
+    text-shadow: 0.5px 0.6px 2px rgb(145, 123, 2);
+}
+#Searchbar img
+{
+    height: 6vh;
+    width : 3vw;
+    margin: 0vh 0.1vw;
+}
+
+#auctionlogo img
+{
+    height: 15%;
+    width: 15%;
+    padding-left: 43%;
+    background-color: black;
+}
+
+.SiteName
+{
+    padding-left: 30%;
+    background-color: transparent;
+    color: black;
+    text-shadow: 30px 0.6px 2px rgb(145, 123, 2);
+    
+}
+.navigation
+{
+      background-color: black;
+}
+
+.unique
+{
+    background-image: url("FinalBackground4.jpg");
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: 70% 100%;
+}
+
+
+    .SiteName 
+    {
+       
+        text-shadow: 2px 0.6px 2px black;
+        
+    }
+

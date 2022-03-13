@@ -1,0 +1,108 @@
+body
+{
+    background-size: 102% 155%;
+}
+
+table
+{
+    border: rgb(145, 123, 2) solid 2px;
+    border-collapse: collapse;
+    width: 49vw;
+    margin: 0vh 4vw;
+    
+}
+tr{
+    border: rgb(145, 123, 2) solid 2px;
+    text-align: center;
+}
+td{
+    border: rgb(145, 123, 2) solid 2px;
+    padding: 2vh 0vw;
+}
+/* .Details{
+    display: flex;
+    margin-top: 6vh;
+} */
+
+#Searchbar img
+{
+    height: 6vh;
+    width : 3vw;
+    margin: 0vh 0.1vw;
+}
+
+body
+{
+    background-size: 130% 2000000%;  
+    /* background-image: url("https://media.istockphoto.com/photos/abstract-grunge-black-texture-background-picture-id1131428317?b=1&k=20&m=1131428317&s=170667a&w=0&h=ifnn3wn3j_DNPp4Gh4DjE_L_abuQfZlY3omyJ77tc0E=");
+    background-repeat: no-repeat;      */
+    background-image: url("FinalBackground4.jpg");
+    background-repeat: no-repeat;
+}
+
+
+ .Details
+{
+    /* margin: 2% 30.5% ; */
+    color: black;
+    text-shadow: 0.5px 0.6px 2px rgb(145, 123, 2);
+} 
+
+table
+{
+    border-collapse: collapse;
+    width: 90vw;
+    margin: 8vh 5vw;  
+    border-style: ridge;
+        border-radius: 5px;
+        border-color: rgb(145, 123, 2);  
+        padding-left: 50%;  
+        
+}
+
+tr{
+    text-align: center;
+}
+
+
+td{
+    text-align: center;
+    border: rgb(145, 123, 2) solid 2px;
+    padding: 15vh 0vw;
+}
+
+th
+{
+    text-align: center;
+    border: rgb(145, 123, 2) solid 2px;
+    padding: 5vh 0vw;
+    background-color: black;
+    
+}
+
+.Details
+{  
+    
+    justify-content: center;
+    /* text-align: center; */
+    font-size:larger;
+    color: rgb(145, 123, 2);
+}
+
+.Details label 
+{
+    padding-left:537px ;
+}
+
+.Details a{
+    color: rgb(145, 123, 2);
+}
+
+.Details a{
+    padding-left:463px ;
+    color: black;
+    text-shadow: 0.5px 0.6px 2px rgb(145, 123, 2);
+}
+
+
+
